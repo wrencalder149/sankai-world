@@ -5,15 +5,15 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>三刊 · 世界版</title>
-    <link>https://wrencalder149.github.io/sankai-world/</link>
-    <atom:link href="https://wrencalder149.github.io/sankai-world/feeds/world.xml" rel="self" type="application/rss+xml"/>
+    <link>https://github.com/wrencalder149/sankai-world</link>
+    <atom:link href="https://cdn.jsdelivr.net/gh/wrencalder149/sankai-world@main/feeds/world.xml" rel="self" type="application/rss+xml"/>
     <description>三刊世界版。一天一則，裡頭是整份可以朗讀的全文：要聞寫完整，後續只講新事實。請訂這一條。不要同時訂逐則版，否則同一份報會被念兩次。新的一天才是新的一則，朗讀軟體才會再通知。</description>
     <language>zh-TW</language>
     <ttl>60</ttl>
     <lastBuildDate>Sun, 27 Sep 2026 15:57:23 GMT</lastBuildDate>
     <item>
       <title>三刊世界版 2026-09-27：英國警方依反恐法逮捕五名男子 費爾福德基地加強警戒</title>
-      <link>https://wrencalder149.github.io/sankai-world/</link>
+      <link>https://github.com/wrencalder149/sankai-world</link>
       <guid isPermaLink="false">sankan-world-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 15:48:04 GMT</pubDate>
       <dc:language>zh-TW</dc:language>
